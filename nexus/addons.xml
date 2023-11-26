@@ -1562,7 +1562,7 @@ v1.0.0.matrix.1
 </addon>
 
 
-<addon id="plugin.video.portugal" name="[COLOR lime]Port[COLORgrey]ugal[/COLOR]" version="0.0.3" provider-name="[COLOR orange]@by_flechanegra[/COLOR]">
+<addon id="plugin.video.portugal" name="[COLOR lime]Port[COLORgrey]ugal[/COLOR]" version="0.0.4" provider-name="[COLOR orange]@by_flechanegra[/COLOR]">
   <extension point="xbmc.python.pluginsource"
       library="default.py">
     <provides>video</provides>
