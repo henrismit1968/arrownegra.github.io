@@ -900,7 +900,7 @@ Não se aceita nenhuma responsabilidade pelo uso deste addon.
        <screenshot>resources/screenshots/3.jpg</screenshot>
     </assets>
 </extension>
-</add
+</addon>
 
 <addon id="plugin.video.eagle.franca" name="[COLORred] Eagle.[COLORgold]Franca[/COLOR]" version="0.1" provider-name="by_flecha_negra">
     <requires>
