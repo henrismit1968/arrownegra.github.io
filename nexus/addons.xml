@@ -1206,7 +1206,7 @@ provider-name="Thks 2 stube Frkd by L.M. @ArrowNegra">
     </extension>
 </addon>
 
-<addon id="plugin.video.aguia_de_ouro" version="1.1.6" name="[COLOR red]Águia [COLOR black]de [COLOR gold]Ouro[/COLOR]" provider-name="@Flecha_Negra">
+<addon id="plugin.video.aguia_de_ouro" version="1.1.7" name="[COLOR red]Águia [COLOR black]de [COLOR gold]Ouro[/COLOR]" provider-name="@Flecha_Negra">
     <requires>
         <import addon="script.module.simplejson" />
         <import addon="script.module.six" />
