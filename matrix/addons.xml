@@ -65,7 +65,7 @@
     <description lang="pl_PL">Klient InputStream dla strumieni adaptacyjnych</description>
     <description lang="ru_RU">InputStream клиент для адаптивных трансляций</description>
     <description lang="zh_CN">用于自适应流的 InputStream 客户端</description>
-    <path>inputstream.adaptive+android-aarch64/inputstream.adaptatibe-20.3.14.zip</path>	  
+    <path>inputstream.adaptive+android-aarch64/inputstream.adaptive-20.3.14.zip</path>	  
   </extension>
 </addon>
 	
@@ -134,7 +134,7 @@
     <description lang="pl_PL">Klient InputStream dla strumieni adaptacyjnych</description>
     <description lang="ru_RU">InputStream клиент для адаптивных трансляций</description>
     <description lang="zh_CN">用于自适应流的 InputStream 客户端</description>
-    <path>inputstream.adaptive+android-armv7/inputstream.adaptatibe-20.3.14.zip</path>	  
+    <path>inputstream.adaptive+android-armv7/inputstream.adaptive-20.3.14.zip</path>	  
   </extension>
 </addon>
 
@@ -203,7 +203,7 @@
     <description lang="pl_PL">Klient InputStream dla strumieni adaptacyjnych</description>
     <description lang="ru_RU">InputStream клиент для адаптивных трансляций</description>
     <description lang="zh_CN">用于自适应流的 InputStream 客户端</description>
-    <path>inputstream.adaptive+windows-i686/inputstream.adaptatibe-20.3.14.zip</path>	  
+    <path>inputstream.adaptive+windows-i686/inputstream.adaptive-20.3.14.zip</path>	  
   </extension>
 </addon>
 
@@ -272,7 +272,7 @@
     <description lang="pl_PL">Klient InputStream dla strumieni adaptacyjnych</description>
     <description lang="ru_RU">InputStream клиент для адаптивных трансляций</description>
     <description lang="zh_CN">用于自适应流的 InputStream 客户端</description>
-    <path>inputstream.adaptive+windows-x86_64/inputstream.adaptatibe-20.3.14.zip</path>  
+    <path>inputstream.adaptive+windows-x86_64/inputstream.adaptive-20.3.14.zip</path>  
   </extension>
 </addon>
 
