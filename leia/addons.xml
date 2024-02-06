@@ -995,7 +995,7 @@ version="1.0" provider-name="Flechanegra">
   </extension>
 </addon>
 
-<addon id="plugin.video.adler.deutschland" name="[COLOR grey]Adler[COLORblack]Deu[COLORred]tsch[COLORyellow]land[/COLOR]" version="0.0.1" provider-name="[COLOR orange]@by_flechanegra[/COLOR]">
+<addon id="plugin.video.adler.deutschland" name="[COLOR grey]Adler[COLORblack]Deu[COLORred]tsch[COLORyellow]land[/COLOR]" version="0.1.2" provider-name="[COLOR orange]@by_flechanegra[/COLOR]">
   <requires>
         <import addon="script.module.six" />
         <import addon="script.module.requests" />
