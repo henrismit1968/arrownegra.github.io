@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+       <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
 <addon
   id="inputstream.adaptive"
@@ -903,7 +903,7 @@ Não se aceita nenhuma responsabilidade pelo uso deste addon.
 </addon>
 
 <addon id="plugin.video.aguiavavoo"
-version="20.0.5"
+version="20.6.6"
 name="[COLORred]Águia [COLORwhite]Vavoo[/COLOR]"
 provider-name="Thks 2 stube Frkd by L.M. @ArrowNegra">
 <requires>
