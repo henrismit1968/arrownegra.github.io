@@ -710,17 +710,19 @@
 </extension>
 </addon>
 
-<addon id="plugin.video.eagle.africa" name="[COLORred] Eagle.[COLORgold]Africa[/COLOR]" version="0.1" provider-name="by_flecha_negra">
+<addon id="plugin.video.eagle.africa" name="[COLORred] Eagle.[COLORgold]Africa[/COLOR]" version="0.2" provider-name="by_flecha_negra">
     <requires>
-        <import addon="script.module.requests"/>
-    </requires>
-    <extension point="xbmc.python.pluginsource" library="main.py">
+        <import addon="script.module.simplejson" />
+        <import addon="script.module.six" />
+        <import addon="script.module.kodi-six" />
+    </requires>  
+       <extension point="xbmc.python.pluginsource" library="default.py">
         <provides>video</provides>
-    </extension>
-    <extension point="xbmc.addon.metadata">
-        <summary>Canais de Televisão, desportos e mais...</summary>
+	</extension>  
+<extension point="xbmc.addon.metadata">
+		<summary>Canais de Televisão, desportos e mais...</summary>
 		<description lang="en">[COLOR red]Eagle [/COLOR] [COLORorange]Africa[/COLOR] [COLORorange]é um addon da familia Arrow Negra.TODOS OS LINKS ESTÃO DISPONIVEIS NA INTERNET![/COLOR]</description>
-		<platform>all</platform>
+	<platform>all</platform>
 		<assets>
        <icon>icon.png</icon>
        <fanart>fanart.jpg</fanart>
@@ -728,8 +730,8 @@
        <screenshot>resources/screenshots/2.jpg</screenshot>
        <screenshot>resources/screenshots/3.jpg</screenshot>
     </assets>
-</extension>
-</addon>
+    </extension>
+</addon>   
 
 <addon id="plugin.video.aguia.animes" version="0.0.4" name="[B]ÁGUIA ANIMES[/B]" provider-name="@By_Flecha_Negra">
     <requires>
