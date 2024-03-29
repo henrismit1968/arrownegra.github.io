@@ -974,7 +974,7 @@ provider-name="Thks 2 stube Frkd by L.M. @ArrowNegra">
 </extension>
 </addon>
 
-<addon id="plugin.video.aguillas.douradas.portal" name="[COLOR red]Aguillas Douradas [COLORorange]Portal TV[/COLOR]" version="2.3" provider-name="by_flecha_negra">
+<addon id="plugin.video.aguillas.douradas.portal" name="[COLOR red]Aguillas Douradas [COLORorange]Portal TV[/COLOR]" version="2.5" provider-name="by_flecha_negra">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
   <import addon="script.module.requests" />
