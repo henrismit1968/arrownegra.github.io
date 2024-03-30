@@ -125,16 +125,18 @@
 
 <addon id="plugin.video.aguia.lobo" name="[COLORlime]Aguia[/COLOR] [COLORyellow]Lobo[/COLOR]" version="1.4.2" provider-name="@by_arrow_negra"> 
     <requires>
-        <import addon="script.module.requests"/>
-    </requires>
-    <extension point="xbmc.python.pluginsource" library="main.py">
+        <import addon="script.module.simplejson" />
+        <import addon="script.module.six" />
+        <import addon="script.module.kodi-six" />
+    </requires>  
+       <extension point="xbmc.python.pluginsource" library="default.py">
         <provides>video</provides>
-    </extension>  
+	</extension>  
 <extension point="xbmc.addon.metadata">
-    <summary>Canais de Televisão, desportos e mais...</summary>
-    <description lang="en">[COLOR red]Aguia[/COLOR] [COLORorange]Lobo[/COLOR] [COLORorange]é um addon da familia ArrowNegra.TODOS OS LINKS ESTÃO DISPONIVEIS NA INTERNET![/COLOR]</description>
-    <platform>all</platform>
-    <assets>
+		<summary>Canais de Televisão, desportos e mais...</summary>
+		<description lang="en">[COLOR red]Aguia[/COLOR] [COLORorange]Lobo[/COLOR] [COLORorange]é um addon da familia ArrowNegra.TODOS OS LINKS ESTÃO DISPONIVEIS NA INTERNET![/COLOR]</description>
+		<platform>all</platform>
+		<assets>
        <icon>icon.png</icon>
        <fanart>fanart.jpg</fanart>
        <screenshot>resources/screenshots/1.jpg</screenshot>
@@ -142,7 +144,7 @@
        <screenshot>resources/screenshots/3.jpg</screenshot>
     </assets>
     </extension>
-</addon>
+</addon>  
 
 <addon id="plugin.video.aguia_de_ouro" version="1.1.7" name="[COLOR red]Águia [COLOR black]de [COLOR gold]Ouro[/COLOR]" provider-name="@Flecha_Negra">
     <requires>
