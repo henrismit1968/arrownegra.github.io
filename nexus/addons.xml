@@ -668,7 +668,7 @@
     </extension>
 </addon>    
 
-<addon id="plugin.video.eagle.latinos" name="[COLORred] Eagle.[COLORgold]Latinos[/COLOR]" version="0.1" provider-name="by_flecha_negra">
+<addon id="plugin.video.eagle.latinos" name="[COLORred] Eagle.[COLORgold]Latinos[/COLOR]" version="1.2" provider-name="by_flecha_negra">
     <requires>
         <import addon="script.module.requests"/>
     </requires>
