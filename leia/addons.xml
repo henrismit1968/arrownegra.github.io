@@ -613,7 +613,7 @@ version="1.0" provider-name="Flechanegra">
     </extension>
 </addon>
 
-<addon id="plugin.video.fenix.portal" name="[COLOR red]fenix [COLORorange]portal[/COLOR]" version="3.1.5" provider-name="[COLOR orange]@by_flechanegra[/COLOR]">
+<addon id="plugin.video.fenix.portal" name="[COLOR red]fenix [COLORorange]portal[/COLOR]" version="3.1.6" provider-name="[COLOR orange]@by_flechanegra[/COLOR]">
   <requires>
         <import addon="script.module.six" />
         <import addon="script.module.requests" />
