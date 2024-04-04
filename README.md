@@ -1,5 +1,5 @@
 # arrownegra REPOSITORY
-# Versão Actual: 2.06
+# Versão Actual: 2.07
 
 Instruções para a adição deste repo:
 
