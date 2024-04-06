@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.aguianegra" name="[COLOR red]Águia[/COLOR] [COLOR yellow]Negra[/COLOR]" version="3.3.0" provider-name="ArrowNegra">
+<addon id="plugin.video.aguianegra" name="[COLOR red]Águia[/COLOR] [COLOR yellow]Negra[/COLOR]" version="3.3.7" provider-name="[COLOR yellow]by_flecha_negra[/COLOR]">
 	<requires>
 		<import addon="script.module.six" />
 		<import addon="script.module.kodi-six" />
@@ -17,18 +17,13 @@
 	<extension point="xbmc.python.pluginsource" library="default.py">
 		<provides>video</provides>
     </extension>
-
 	<extension point="xbmc.addon.metadata">
 		<summary>Canais de Televisão, desportos e mais...</summary>
 		<description>
-
-
 AVISO LEGAL:
-
 Este addon não aloja nenhum conteudo mostrado.
 Todo o conteudo encuentra-se livremente na internet.
 Não se aceita nenhuma responsabilidade pelo uso deste addon.
-
 ¡Enjoyyyy!
 		</description>
 		<platform>all</platform>
