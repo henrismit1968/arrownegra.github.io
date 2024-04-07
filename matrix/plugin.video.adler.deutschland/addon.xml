@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.adler.deutschland" name="[COLOR grey]Adler[COLORblack]Deu[COLORred]tsch[COLORyellow]land[/COLOR]" version="1.5" provider-name="[COLOR orange]@by_flechanegra[/COLOR]">
+<addon id="plugin.video.adler.deutschland" name="[COLOR grey]Adler[COLORblack]Deu[COLORred]tsch[COLORyellow]land[/COLOR]" version="1.6" provider-name="[COLOR orange]@by_flechanegra[/COLOR]">
   <extension point="xbmc.python.pluginsource"
 			library="default.py">
 		<provides>video</provides>

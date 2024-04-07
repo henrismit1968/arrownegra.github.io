@@ -824,7 +824,7 @@
     </extension>
 </addon>
 
-<addon id="plugin.video.adler.deutschland" name="[COLOR grey]Adler[COLORblack]Deu[COLORred]tsch[COLORyellow]land[/COLOR]" version="1.5" provider-name="[COLOR orange]@by_flechanegra[/COLOR]">
+<addon id="plugin.video.adler.deutschland" name="[COLOR grey]Adler[COLORblack]Deu[COLORred]tsch[COLORyellow]land[/COLOR]" version="1.6" provider-name="[COLOR orange]@by_flechanegra[/COLOR]">
   <extension point="xbmc.python.pluginsource"
 			library="default.py">
 		<provides>video</provides>
@@ -969,7 +969,7 @@ provider-name="Thks 2 stube Frkd by L.M. @ArrowNegra">
 </extension>
 </addon>
 
-<addon id="plugin.video.aguillas.douradas.portal" name="[COLOR red]Aguillas Douradas [COLORorange]Portal TV[/COLOR]" version="2.5" provider-name="by_flecha_negra">
+<addon id="plugin.video.aguillas.douradas.portal" name="[COLOR red]Aguillas Douradas [COLORorange]Portal TV[/COLOR]" version="2.7" provider-name="by_flecha_negra">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
   <import addon="script.module.requests" />
@@ -1487,7 +1487,7 @@ v1.0.0.matrix.1
 </extension>
 
 </addon>
-<addon id="plugin.video.K-PT" name="[COLOR blue]K[COLORwhite]-[COLORgreen]P[COLORred]T[/COLOR]" version="2.1.8" provider-name="[COLOR orange]@By_flecha_negra[/COLOR]">
+<addon id="plugin.video.K-PT" name="[COLOR blue]K[COLORwhite]-[COLORgreen]P[COLORred]T[/COLOR]" version="2.2.1" provider-name="[COLOR orange]@By_flecha_negra[/COLOR]">
   <extension point="xbmc.python.pluginsource"
 			library="default.py">
 		<provides>video</provides>
